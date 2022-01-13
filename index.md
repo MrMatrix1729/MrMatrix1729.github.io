@@ -4,7 +4,7 @@ I am Mr Matrix. I am a die heard discord user.
 
 I like doig programming in my spare time. I primarily used C++ followed by python
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatrix1729&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatrix1729&theme=tokyonight)
 
 
 ### Markdown
