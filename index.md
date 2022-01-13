@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/MrMatrix1729/MrMatrix1729.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Mr Matrix. I am a die heard discord user.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I like doig programming in my spare time. I primarily used C++ followed by python
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatrix1729&layout=compact)
+
 
 ### Markdown
 
