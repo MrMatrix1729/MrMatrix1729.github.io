@@ -54,3 +54,6 @@ skin: "/assets/css/skins/dark.css"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+mathjax:
+  enable: true
