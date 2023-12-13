@@ -1,0 +1,19 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #282A36;
+  margin: 0rem;
+  overflow: hidden;
+}
+
+.heading {
+  font-family: 'Space Mono', monospace;
+  font-size: 15px;
+  color: #F8F8F2;
+  border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  margin: 0px;
+  justify-content: center;
+  text-align: center;
+
+}
