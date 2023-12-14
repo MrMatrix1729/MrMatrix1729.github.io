@@ -5,7 +5,7 @@ let interval = null;
 const initial = "MATRIX";
 const final = "TRIMAN"
 
-document.querySelector(".fancy").onmouseover = event => {
+document.querySelector("#fancy").onmouseover = event => {
   let iteration = 0;
 
   clearInterval(interval);
@@ -30,7 +30,7 @@ document.querySelector(".fancy").onmouseover = event => {
   }, 30);
 }
 
-document.querySelector(".fancy").onmouseout = event => {
+document.querySelector("#fancy").onmouseout = event => {
   let iteration = 0;
 
   clearInterval(interval);
@@ -53,4 +53,9 @@ document.querySelector(".fancy").onmouseout = event => {
 
     iteration += 1 / 3;
   }, 30);
+}
+
+const toggleNav = () => {
+  document.body.dataset.nav = document.body.dataset.nav === "true" ? "false" : "true";
+  console.log(document.body.dataset.nav)
 }
